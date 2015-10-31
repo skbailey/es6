@@ -1,0 +1,22 @@
+{
+  "name": "es6-playground",
+  "version": "1.0.0",
+  "description": "A place to learn about the new features in Ecmascript 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skbailey/es6.git"
+  },
+  "author": "Sherard Bailey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skbailey/es6/issues"
+  },
+  "homepage": "https://github.com/skbailey/es6#readme",
+  "dependencies": {
+    "request": "^2.65.0"
+  }
+}
